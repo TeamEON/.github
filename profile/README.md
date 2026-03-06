@@ -4,7 +4,7 @@
 
 TeamEON is an engineering team focused on developing high-performance software and intelligent systems that power next-generation robotics, aerospace technologies, and autonomous aerial platforms.
 
----
+
 
 ## Mission
 
@@ -12,7 +12,7 @@ Our mission is to design and build reliable, scalable, and intelligent systems t
 
 We focus on creating technologies that push the boundaries of automation, control systems, and real-time computing.
 
----
+
 
 ## Areas of Work
 
@@ -24,7 +24,7 @@ We focus on creating technologies that push the boundaries of automation, contro
 - ☁️ Cloud Infrastructure for Robotics
 - 📡 Telemetry & Real-Time Data Systems
 
----
+
 
 ## Technology Stack
 
@@ -37,7 +37,7 @@ Our projects use modern engineering tools and languages including:
 - **Docker & Kubernetes** — Scalable infrastructure
 - **Linux** — Systems and robotics development
 
----
+
 
 ## Projects
 
@@ -49,7 +49,7 @@ We are actively developing systems across multiple domains:
 - Simulation and testing environments
 - Distributed infrastructure for robotics platforms
 
----
+
 
 ## Vision
 
@@ -57,7 +57,7 @@ We believe the future will be powered by intelligent machines — robots explori
 
 TeamEON aims to build the systems that make this future possible.
 
----
+
 
 ## Connect
 
